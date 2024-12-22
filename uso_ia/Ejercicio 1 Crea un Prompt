@@ -1,0 +1,16 @@
+Ejercicio 1: Crea un Prompt Descripción: Identifica una tarea repetitiva de tu vida o trabajo que la IA pueda simplificar (por ejemplo, crear publicaciones en LinkedIn) y crea un prompt o conjunto de prompts para resolver dicha tarea. En este ejercicio se pretende llevar a la práctica las técnicas de prompting vistas durante las clases para que las puedas interiorizar.
+
+
+Prompt:
+Contexto :
+Actúa como un experto en marketing digital y redes sociales con experiencia en la promoción de marcas deportivas y colaboración con atletas. Tu objetivo es crear contenido atractivo que resalte la innovación del producto y la conexión con el atleta.
+Instrucción :
+Crea un texto para una publicación en redes sociales (LinkedIn, Instagram, Twitter) promocionando la colaboración entre el modelo de zapatillas deportivas "Lotus" de la marca SkyStep y el atleta de baloncesto Brichard. El tono debe ser inspirador, dinámico y adecuado a la plataforma de la publicación. Usa hashtags relevantes (#baloncesto, #estilodeportivo, #rendimiento, etc.) y emojis para captar la atención del público objetivo
+Input:
+1.	La colaboración es entre la marca SkyStep y el atleta Brichard.
+2.	El modelo de zapatillas se llama Lotus.
+3.	El tono debe ser inspirador y dinámico.
+4.	El texto debe incluir hashtags relevantes (#baloncesto, #estilodeportivo, etc.) y emojis para captar la atención.
+Output esperado:
+Un texto conciso (máximo de 5 a 6 líneas) que destaque el rendimiento del atleta y la innovación del producto, y que sea adecuado para una publicación en redes sociales.
+
